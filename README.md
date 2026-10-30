@@ -2,6 +2,17 @@
 
 Authenticated ticket intake and support queue. Requesters create and track only their own tickets; support agents view/manage all tickets, assign agents, update status/priority, reply publicly, or add internal notes hidden from requesters.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Antrean Tiket Agen Dukungan**<br>Tampilan antrean dukungan operasional dengan pencarian subjek, filter status/prioritas, dan nama pemohon | ![Antrean Tiket Agen Dukungan](docs/screenshots/01-agent-support-queue.png) |
+| **Formulir Pengajuan Tiket Pemohon**<br>Formulir intake pembuatan tiket baru dengan pemilihan tingkat prioritas serta daftar tiket mandiri pengguna | ![Formulir Pengajuan Tiket Pemohon](docs/screenshots/02-requester-ticket-intake.png) |
+| **Utas Percakapan Tiket & Catatan Internal**<br>Halaman detail tiket dengan kontrol pembaruan status agen, riwayat balasan publik, dan catatan internal staf | ![Utas Percakapan Tiket & Catatan Internal](docs/screenshots/03-ticket-conversation-thread.png) |
+| **Pengaturan Akun & Profil Pengguna**<br>Pusat pengelolaan identitas akun profil, pembaharuan kata sandi, dan keamanan otentikasi | ![Pengaturan Akun & Profil Pengguna](docs/screenshots/04-profile-account-settings.png) |
+
+---
+
 ## Local setup (Windows)
 
 ```powershell
