@@ -32,3 +32,15 @@ npm audit --omit=dev
 ```
 
 No demo tickets/users are seeded. Keep `.env`, personal data, dependencies, SQLite databases, and build output out of Git. SLA automation, email notifications, attachments, and audit history are not implemented.
+
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Login Overview
+![Login](docs/screenshots/02_login.png)
+
+### Tickets Overview
+![Tickets](docs/screenshots/03_tickets.png)
